@@ -1,4 +1,4 @@
-# Ulas Kalayci
+# Ulaş Kalayci
 
 **Maintainer of [Yuvomi](https://github.com/ulsklyc/yuvomi), the self-hosted family planner. Computer science and math teacher in Germany.**
 
