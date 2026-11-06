@@ -4,7 +4,7 @@
 
 I build software that a household can run, own and leave: its data stays on its own server, nothing tracks it, and nothing locks it in. Open standards, MIT license, no cloud account with anyone.
 
-[yuvomi.cloud](https://yuvomi.cloud) · [LinkedIn](https://www.linkedin.com/in/ulas-kalayci-717087240) · [Sponsor](https://github.com/sponsors/ulsklyc)
+[yuvomi.cloud](https://yuvomi.cloud) · [LinkedIn](https://www.linkedin.com/in/ulas-kalayci) · [Sponsor](https://github.com/sponsors/ulsklyc)
 
 ## Yuvomi
 
