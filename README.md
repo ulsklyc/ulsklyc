@@ -42,5 +42,5 @@ Teaching computer science shapes how I write documentation, error messages and i
 ## Get in touch
 
 - **Questions about Yuvomi:** [Discussions](https://github.com/ulsklyc/yuvomi/discussions)
-- **Press, talks, collaboration:** [info@yuvomi.cloud](mailto:info@yuvomi.cloud) or [LinkedIn](https://www.linkedin.com/in/ulas-kalayci-717087240)
+- **Press, talks, collaboration:** [info@yuvomi.cloud](mailto:info@yuvomi.cloud) or [LinkedIn](https://www.linkedin.com/in/ulas-kalayci)
 - **Support the work:** [GitHub Sponsors](https://github.com/sponsors/ulsklyc)
